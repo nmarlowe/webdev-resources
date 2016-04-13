@@ -26,9 +26,12 @@
   10. **[PHP](#php)**
   11. **[Editors / IDEs](#editors--ides)**
   12. **[eBooks](#ebooks)**
+  13. **[Security](#security)**
+
 
 
 ---
+
 
 
 ### HTML(5) / CSS(3)
@@ -86,6 +89,15 @@
   * [Moving from HTML Grid Systems to CSS Grid Systems](http://zellwk.com/blog/from-html-grids-to-css-grids/)
   * [CSS custom properties (native variables) In-Depth](https://blog.gospodarets.com/css_properties_in_depth)
   * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+  * [Font Famous](http://fontfamous.com/)
+  * [Font Awesome](http://fortawesome.io/)
+  * [Icon Font & SVG Icon Sets](https://icomoon.io/)
+  * [HTML Icon Font List](http://www.rrpowered.com/2014/05/html-icon-font-list/)
+  * [Font Awesome Favicon Generator](http://paulferrett.com/fontawesome-favicon/)
+  * [BrandColors: Official color codes for the world's biggest brands](http://brandcolors.net/)
+  * [Colours: A list of colour names in CSS](http://colours.neilorangepeel.com/)
+  * [CSS Modules Tutorial Series](https://css-tricks.com/css-modules-part-1-need/)
+  * [The Psychology of Color in Web Design](http://www.vandelaydesign.com/the-psychology-of-color-in-web-design/)
 
 
 #### Frameworks / Starters
@@ -120,6 +132,7 @@
   * [Modest Grid](http://modestgrid.com/)
   * [Metro UI CSS](http://metroui.org.ua/)
   * [CloseCSS](http://closecss.io/)
+  * [Repaintless Library for fast CSS Animations](https://github.com/szynszyliszys/repaintless)
 
 
 #### Flexbox
@@ -152,10 +165,13 @@
   * [How to Use PostCSS with Gulp](http://www.sitepoint.com/how-to-use-postcss-with-gulp/)
 
 
+
 ---
 
 
+
 ### JavaScript
+
 
 #### Tools / References
 
@@ -205,6 +221,10 @@
   * [ES6 Succinctly](http://kamranahmed.info/blog/2016/04/04/es6-in-depth/)
   * [Getting Started with Browserify](https://scotch.io/tutorials/getting-started-with-browserify)
   * [Introduction to Functional Reactive Programming with RxJS](http://www.sitepoint.com/functional-reactive-programming-rxjs/)
+  * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+  * [Essential TDD/BDD React List](https://github.com/Cmdv/Essential-TDD-BDD-React-list)
+  * [Chance.js: Utility library to generate anything random for JavaScript](http://chancejs.com/)
+  * [ES6 - New Features in JavaScript by Tom Kelly](http://slides.com/tomkelly-1/es6-deck/#/)
 
 
 #### jQuery
@@ -212,6 +232,7 @@
   * [jQuery Coding Standards & Best Practices](http://lab.abhinayrathore.com/jquery-standards/)
   * [jQuery UI Events Cheatsheet](http://bitsofco.de/jquery-ui-events/)
   * [An Introduction to jQuery’s Deferred Objects](http://www.sitepoint.com/introduction-jquery-deferred-objects/)
+  * [JavaScript Design Patterns Cheat Sheet Using jQuery](https://github.com/nnupoor/js_designpatterns)
 
 
 #### Node/npm
@@ -223,6 +244,7 @@
   * [You Don't Know Node Article](http://webapplog.com/you-dont-know-node/)
   * [You Don't Know Node Repo](https://github.com/azat-co/you-dont-know-node)
   * [Node Patterns: From Callbacks to Observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/)
+  * [Better Node with ES6 Tutorial Series](https://scotch.io/tutorials/better-node-with-es6-pt-i)
 
 
 #### React
@@ -237,6 +259,7 @@
   * [A curriculum for learning React and Flux for total beginners](http://prestonparry.com/articles/ReactCurriculum/)
   * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
   * [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial (Part 1)](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
+  * [React Starter Kit](https://www.reactstarterkit.com/)
 
 
 #### Angular
@@ -253,7 +276,9 @@
   * [Meteor: The Official Guide](http://guide.meteor.com/)
 
 
+
 ---
+
 
 
 ### Git / GitHub
@@ -266,9 +291,13 @@
   * [Git Goodies](https://github.com/qw3rtman/gg)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
   * [Git Commits For Non-Git Users](https://github.com/thoughtbot/til/blob/master/GitCommitsForNonGitUsers.md)
+  * [GitHub Git Cheat Sheet (PDF)](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+  * [GitHub Training Classes](https://training.github.com/classes/)
+
 
 
 ---
+
 
 
 ### Markdown
@@ -301,7 +330,9 @@
   * [Haroopad (Windows/Max/Linux)](http://pad.haroopress.com/user.html)
 
 
+
 ---
+
 
 
 ### Regular Expressions
@@ -311,7 +342,9 @@
   * [Regulex](https://jex.im/regulex/)
 
 
+
 ---
+
 
 
 ### Documentation Collections
@@ -341,7 +374,7 @@
 
 
 
-  ---
+---
 
 
 
@@ -355,7 +388,7 @@
 
 
 
-  ---
+---
 
 
 
@@ -375,6 +408,9 @@
 
   * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
   * [Awesome PHP](https://github.com/ziadoz/awesome-php)
+  * [Laravel 5.1 LTS Cheat Sheet](http://aufree.github.io/laravel5-cheatsheet/)
+  * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
+  * [Laravel 5.1 Cheat Sheet](http://www.linxiang.info/l5-cs/)
 
 
 
@@ -405,3 +441,21 @@
   * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
   * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
   * [The Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.railstutorial.org/book)
+  * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+  * [Build your applications with Webpack](https://alexandrebodin.gitbooks.io/webpack/content/)
+  * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
+  * [Javascript Promises](https://samypesse.gitbooks.io/js-promises/content/)
+  * [A General Theory of Reactivity](https://kriskowal.gitbooks.io/gtor/content/)
+  * [Heroku + Node.js](https://samypesse.gitbooks.io/heroku-node/content/)
+
+
+
+---
+
+
+
+### Security
+
+  * [Analyze your HTTP Response Headers](https://securityheaders.io/)
+  * [Report URI: CSP and HPKP Violation Reporting](https://report-uri.io/)
+  * [What is Subresource Integrity (SRI)?](https://www.maxcdn.com/one/visual-glossary/subresource-integrity/)
