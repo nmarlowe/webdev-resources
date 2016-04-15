@@ -163,6 +163,7 @@
   * [PostCSS](http://postcss.org/)
   * [PostCSS.parts: A searchable catalog of PostCSS plugins](http://postcss.parts/)
   * [How to Use PostCSS with Gulp](http://www.sitepoint.com/how-to-use-postcss-with-gulp/)
+  * [Stylus Website](http://stylus-lang.com/)
 
 
 
@@ -293,6 +294,7 @@
   * [Git Commits For Non-Git Users](https://github.com/thoughtbot/til/blob/master/GitCommitsForNonGitUsers.md)
   * [GitHub Git Cheat Sheet (PDF)](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
   * [GitHub Training Classes](https://training.github.com/classes/)
+  * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 
 
@@ -340,6 +342,7 @@
   * [Regular Expressions 101](https://regex101.com/)
   * [Learn Regular Expressions in About 55 Minutes](http://qntm.org/files/re/re.html)
   * [Regulex](https://jex.im/regulex/)
+  * [Regex Crossword](https://regexcrossword.com/)
 
 
 
@@ -459,3 +462,4 @@
   * [Analyze your HTTP Response Headers](https://securityheaders.io/)
   * [Report URI: CSP and HPKP Violation Reporting](https://report-uri.io/)
   * [What is Subresource Integrity (SRI)?](https://www.maxcdn.com/one/visual-glossary/subresource-integrity/)
+  * [Hacksplaining](https://www.hacksplaining.com/)
